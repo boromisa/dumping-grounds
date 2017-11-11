@@ -1,0 +1,118 @@
+[
+  {
+    "sampleSources": [
+      "0"
+    ],
+    "startTime": "2015-01-23T15:57:41Z",
+    "createdBy": {
+      "email": "john@gutcheckit.com",
+      "id": 16810,
+      "name": "John Wilson"
+    },
+    "questions": 25,
+    "owner": 6651,
+    "total": 400,
+    "description": "",
+    "compat": 126,
+    "archived": false,
+    "clickthrough": 200,
+    "medianQtime": 30,
+    "state": "testing",
+    "type": 1,
+    "today": 0,
+    "finishTime": "2015-01-23T15:58:55Z",
+    "tags": [
+      "Templates",
+      "Sequential Monadic ",
+      "GutCheck"
+    ],
+    "myAccess": null,
+    "otherLanguages": [],
+    "averageQtime": 31,
+    "qualified": 100,
+    "myEdit": null,
+    "lastAccessBy": {
+      "email": "Kelly@gutcheckit.com",
+      "id": 14725,
+      "name": "Kelly Farrelly"
+    },
+    "groups": [],
+    "active": false,
+    "path": "selfserve/1f34/150126",
+    "matched": {},
+    "lang": [
+      "english",
+      "English (USA)"
+    ],
+    "lastEditBy": {
+      "email": "john@gutcheckit.com",
+      "id": 16810,
+      "name": "John Wilson"
+    },
+    "lastEdit": "2015-01-21T22:26:31Z",
+    "hasDashboard": false,
+    "lastAccess": "2015-01-23T15:59:26Z",
+    "title": "TEMPLATE: Sequential Monadic (4 Concept)",
+    "favorite": false,
+    "hasSavedReport": false,
+    "directory": "GutCheck",
+    "accessed": null
+  },
+  {
+    "sampleSources": [
+      "107"
+    ],
+    "startTime": null,
+    "createdBy": {
+      "email": "erinn@decipherinc.com",
+      "id": 2292,
+      "name": "Erinn Taylor"
+    },
+    "questions": 55,
+    "owner": 6651,
+    "total": 0,
+    "description": "",
+    "compat": 120,
+    "archived": false,
+    "clickthrough": 0,
+    "medianQtime": 0,
+    "state": "testing",
+    "type": 1,
+    "today": 0,
+    "finishTime": null,
+    "tags": [
+      "GutCheck"
+    ],
+    "myAccess": null,
+    "otherLanguages": [],
+    "averageQtime": 0,
+    "qualified": 0,
+    "myEdit": null,
+    "lastAccessBy": {
+      "email": "madison@decipherinc.com",
+      "id": 11733,
+      "name": "Madison Kennedy"
+    },
+    "groups": [],
+    "active": false,
+    "path": "selfserve/1f34/140501",
+    "matched": {},
+    "lang": [
+      "english",
+      "English (USA)"
+    ],
+    "lastEditBy": {
+      "email": "erinn@decipherinc.com",
+      "id": 2292,
+      "name": "Erinn Taylor"
+    },
+    "lastEdit": "2014-05-06T21:56:12Z",
+    "hasDashboard": false,
+    "lastAccess": "2014-07-22T23:35:22Z",
+    "title": "Copy of General Mills - Yoplait Pilot",
+    "favorite": false,
+    "hasSavedReport": true,
+    "directory": "GutCheck",
+    "accessed": null
+  }
+]

@@ -1,0 +1,443 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "/",
+  "type": "array",
+  "items": [
+    {
+      "id": "0",
+      "type": "object",
+      "properties": {
+        "sampleSources": {
+          "id": "sampleSources",
+          "type": "array",
+          "items": {
+            "id": "0",
+            "type": "string"
+          }
+        },
+        "startTime": {
+          "id": "startTime",
+          "type": "string"
+        },
+        "createdBy": {
+          "id": "createdBy",
+          "type": "object",
+          "properties": {
+            "email": {
+              "id": "email",
+              "type": "string"
+            },
+            "id": {
+              "id": "id",
+              "type": "integer"
+            },
+            "name": {
+              "id": "name",
+              "type": "string"
+            }
+          }
+        },
+        "questions": {
+          "id": "questions",
+          "type": "integer"
+        },
+        "owner": {
+          "id": "owner",
+          "type": "integer"
+        },
+        "total": {
+          "id": "total",
+          "type": "integer"
+        },
+        "description": {
+          "id": "description",
+          "type": "string"
+        },
+        "compat": {
+          "id": "compat",
+          "type": "integer"
+        },
+        "archived": {
+          "id": "archived",
+          "type": "boolean"
+        },
+        "clickthrough": {
+          "id": "clickthrough",
+          "type": "integer"
+        },
+        "medianQtime": {
+          "id": "medianQtime",
+          "type": "integer"
+        },
+        "state": {
+          "id": "state",
+          "type": "string"
+        },
+        "type": {
+          "id": "type",
+          "type": "integer"
+        },
+        "today": {
+          "id": "today",
+          "type": "integer"
+        },
+        "finishTime": {
+          "id": "finishTime",
+          "type": "string"
+        },
+        "tags": {
+          "id": "tags",
+          "type": "array",
+          "items": [
+            {
+              "id": "0",
+              "type": "string"
+            },
+            {
+              "id": "1",
+              "type": "string"
+            },
+            {
+              "id": "2",
+              "type": "string"
+            }
+          ]
+        },
+        "myAccess": {
+          "id": "myAccess",
+          "type": "null"
+        },
+        "otherLanguages": {
+          "id": "otherLanguages",
+          "type": "array",
+          "items": []
+        },
+        "averageQtime": {
+          "id": "averageQtime",
+          "type": "integer"
+        },
+        "qualified": {
+          "id": "qualified",
+          "type": "integer"
+        },
+        "myEdit": {
+          "id": "myEdit",
+          "type": "null"
+        },
+        "lastAccessBy": {
+          "id": "lastAccessBy",
+          "type": "object",
+          "properties": {
+            "email": {
+              "id": "email",
+              "type": "string"
+            },
+            "id": {
+              "id": "id",
+              "type": "integer"
+            },
+            "name": {
+              "id": "name",
+              "type": "string"
+            }
+          }
+        },
+        "groups": {
+          "id": "groups",
+          "type": "array",
+          "items": []
+        },
+        "active": {
+          "id": "active",
+          "type": "boolean"
+        },
+        "path": {
+          "id": "path",
+          "type": "string"
+        },
+        "matched": {
+          "id": "matched",
+          "type": "object",
+          "properties": {}
+        },
+        "lang": {
+          "id": "lang",
+          "type": "array",
+          "items": [
+            {
+              "id": "0",
+              "type": "string"
+            },
+            {
+              "id": "1",
+              "type": "string"
+            }
+          ]
+        },
+        "lastEditBy": {
+          "id": "lastEditBy",
+          "type": "object",
+          "properties": {
+            "email": {
+              "id": "email",
+              "type": "string"
+            },
+            "id": {
+              "id": "id",
+              "type": "integer"
+            },
+            "name": {
+              "id": "name",
+              "type": "string"
+            }
+          }
+        },
+        "lastEdit": {
+          "id": "lastEdit",
+          "type": "string"
+        },
+        "hasDashboard": {
+          "id": "hasDashboard",
+          "type": "boolean"
+        },
+        "lastAccess": {
+          "id": "lastAccess",
+          "type": "string"
+        },
+        "title": {
+          "id": "title",
+          "type": "string"
+        },
+        "favorite": {
+          "id": "favorite",
+          "type": "boolean"
+        },
+        "hasSavedReport": {
+          "id": "hasSavedReport",
+          "type": "boolean"
+        },
+        "directory": {
+          "id": "directory",
+          "type": "string"
+        },
+        "accessed": {
+          "id": "accessed",
+          "type": "null"
+        }
+      }
+    },
+    {
+      "id": "1",
+      "type": "object",
+      "properties": {
+        "sampleSources": {
+          "id": "sampleSources",
+          "type": "array",
+          "items": {
+            "id": "0",
+            "type": "string"
+          }
+        },
+        "startTime": {
+          "id": "startTime",
+          "type": "null"
+        },
+        "createdBy": {
+          "id": "createdBy",
+          "type": "object",
+          "properties": {
+            "email": {
+              "id": "email",
+              "type": "string"
+            },
+            "id": {
+              "id": "id",
+              "type": "integer"
+            },
+            "name": {
+              "id": "name",
+              "type": "string"
+            }
+          }
+        },
+        "questions": {
+          "id": "questions",
+          "type": "integer"
+        },
+        "owner": {
+          "id": "owner",
+          "type": "integer"
+        },
+        "total": {
+          "id": "total",
+          "type": "integer"
+        },
+        "description": {
+          "id": "description",
+          "type": "string"
+        },
+        "compat": {
+          "id": "compat",
+          "type": "integer"
+        },
+        "archived": {
+          "id": "archived",
+          "type": "boolean"
+        },
+        "clickthrough": {
+          "id": "clickthrough",
+          "type": "integer"
+        },
+        "medianQtime": {
+          "id": "medianQtime",
+          "type": "integer"
+        },
+        "state": {
+          "id": "state",
+          "type": "string"
+        },
+        "type": {
+          "id": "type",
+          "type": "integer"
+        },
+        "today": {
+          "id": "today",
+          "type": "integer"
+        },
+        "finishTime": {
+          "id": "finishTime",
+          "type": "null"
+        },
+        "tags": {
+          "id": "tags",
+          "type": "array",
+          "items": {
+            "id": "0",
+            "type": "string"
+          }
+        },
+        "myAccess": {
+          "id": "myAccess",
+          "type": "null"
+        },
+        "otherLanguages": {
+          "id": "otherLanguages",
+          "type": "array",
+          "items": []
+        },
+        "averageQtime": {
+          "id": "averageQtime",
+          "type": "integer"
+        },
+        "qualified": {
+          "id": "qualified",
+          "type": "integer"
+        },
+        "myEdit": {
+          "id": "myEdit",
+          "type": "null"
+        },
+        "lastAccessBy": {
+          "id": "lastAccessBy",
+          "type": "object",
+          "properties": {
+            "email": {
+              "id": "email",
+              "type": "string"
+            },
+            "id": {
+              "id": "id",
+              "type": "integer"
+            },
+            "name": {
+              "id": "name",
+              "type": "string"
+            }
+          }
+        },
+        "groups": {
+          "id": "groups",
+          "type": "array",
+          "items": []
+        },
+        "active": {
+          "id": "active",
+          "type": "boolean"
+        },
+        "path": {
+          "id": "path",
+          "type": "string"
+        },
+        "matched": {
+          "id": "matched",
+          "type": "object",
+          "properties": {}
+        },
+        "lang": {
+          "id": "lang",
+          "type": "array",
+          "items": [
+            {
+              "id": "0",
+              "type": "string"
+            },
+            {
+              "id": "1",
+              "type": "string"
+            }
+          ]
+        },
+        "lastEditBy": {
+          "id": "lastEditBy",
+          "type": "object",
+          "properties": {
+            "email": {
+              "id": "email",
+              "type": "string"
+            },
+            "id": {
+              "id": "id",
+              "type": "integer"
+            },
+            "name": {
+              "id": "name",
+              "type": "string"
+            }
+          }
+        },
+        "lastEdit": {
+          "id": "lastEdit",
+          "type": "string"
+        },
+        "hasDashboard": {
+          "id": "hasDashboard",
+          "type": "boolean"
+        },
+        "lastAccess": {
+          "id": "lastAccess",
+          "type": "string"
+        },
+        "title": {
+          "id": "title",
+          "type": "string"
+        },
+        "favorite": {
+          "id": "favorite",
+          "type": "boolean"
+        },
+        "hasSavedReport": {
+          "id": "hasSavedReport",
+          "type": "boolean"
+        },
+        "directory": {
+          "id": "directory",
+          "type": "string"
+        },
+        "accessed": {
+          "id": "accessed",
+          "type": "null"
+        }
+      }
+    }
+  ]
+}
