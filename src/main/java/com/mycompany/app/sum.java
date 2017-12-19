@@ -18,7 +18,10 @@ public class sum {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
+        int hey = 0;
 
+        System.out.println(hey++);
+        System.out.println(hey++);
     }
 
 }
